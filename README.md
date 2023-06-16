@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HELLO WE ARE TIM 5 FROM SECTION KHATULISTIWA
+# HELLO WE ARE TIM 5
+
+## We are solid team from the khatulistiwa section Revou Tech Academy!
